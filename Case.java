@@ -18,6 +18,8 @@ public class Case {
 			this.traversable = false ;
 			if(nom == "eau"){
 				this.visuel = '~' ;
+			}if(nom == "arbre"){
+				this.visuel = 'T' ;
 			}
 		}
 		
