@@ -1,4 +1,3 @@
-
 public class Case {
 	int x ;
 	int y ;
