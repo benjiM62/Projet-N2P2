@@ -5,8 +5,8 @@ public class Menu {
 	void Menu1(){
 		String s="";
 		boolean choix=true;
-		s= JOptionPane.showInputDialog(null, "Chasse au trésor !Les aventures des pirates!\n "
-				+ "Jouer ! 1\n"+"Les règles ! 2\n"+"Quitter le jeu :'( 3 \n");
+		s= JOptionPane.showInputDialog(null, "Chasse au trÃ©sor !Les aventures des pirates!\n "
+				+ "Jouer ! 1\n"+"Les rÃ¨gles ! 2\n"+"Quitter le jeu :'( 3 \n");
 		while(choix){
 			if(s=="1"){
 				choix=false;
