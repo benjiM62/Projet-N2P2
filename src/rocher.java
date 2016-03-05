@@ -8,7 +8,7 @@ public class rocher {
 	char symbole='R';
 
 
-	 **Méthodes
+	 **MÃ©thodes
 
 	boolean rocherATresor(int position_x ,int position_y){
 	}
