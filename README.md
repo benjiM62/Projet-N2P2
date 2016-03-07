@@ -10,3 +10,5 @@ rocher  |R    |non
 eau     |~    |non
 arbre   |T    |non
 coffre  |C    |non
+
+test
